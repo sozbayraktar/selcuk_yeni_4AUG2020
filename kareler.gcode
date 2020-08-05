@@ -1,4 +1,3 @@
-(Merhaba)
 G1 Z-1
 G1 X30 Y0
 G1 X30 Y30
